@@ -1,0 +1,1 @@
+blender -b /home/benchmark/Desktop/bash/blenderFile/Blender2.blend -s 1 -e 2 -a
